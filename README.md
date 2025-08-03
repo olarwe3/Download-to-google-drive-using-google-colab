@@ -4,7 +4,7 @@ A professional, feature-rich download manager for Google Colab with advanced mul
 
 ## 🚀 Try it Now!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olarwe3/Download-to-google-drive-using-google-colab/blob/master/main_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sk-labs/Download-to-google-drive-using-google-colab/blob/master/main_notebook.ipynb)
 
 **Click the button above to open and run the main notebook directly in Google Colab!**
 
