@@ -1,0 +1,27 @@
+{
+  "download": {
+    "default_destination": "/content/drive/MyDrive/Downloads",
+    "chunk_size": 262144,
+    "max_workers": 5,
+    "max_segments": 8,
+    "timeout": 30,
+    "retry_attempts": 3,
+    "min_file_size_for_segmentation": 10485760
+  },
+  "ui": {
+    "theme": "auto",
+    "progress_update_frequency": 1048576,
+    "show_speed_tips": true,
+    "compact_mode": true
+  },
+  "archive": {
+    "supported_formats": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"],
+    "default_compression_level": 6,
+    "auto_extract_to_drive": true
+  },
+  "storage": {
+    "check_available_space": true,
+    "warn_threshold_percent": 90,
+    "cleanup_temp_files": true
+  }
+}
